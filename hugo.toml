@@ -1,0 +1,19 @@
+baseURL = "/"
+languageCode = "de-de"
+title = "Schlüsseldienst Musterstadt"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  businessName = "Schlüsseldienst Musterstadt"
+  tagline = "24/7 Türöffnung & Einbruchschutz"
+  phone = "+49 123 4567890"
+  email = "kontakt@schluesseldienst-musterstadt.de"
+  addressStreet = "Beispielstraße 12"
+  addressPostal = "12345"
+  addressCity = "Musterstadt"
+  openingHours = "Mo–So 00:00–24:00"
+  serviceArea = "Musterstadt & Umgebung"
+  whatsapp = "+49 123 4567890"
+  # SEO
+  description = "Schneller, fairer Schlüsseldienst in Musterstadt: 24h Türöffnung, Schloss- & Zylindertausch, Einbruchschutz. Festpreise, kurze Anfahrtszeiten."
